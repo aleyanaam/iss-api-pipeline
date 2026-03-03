@@ -6,7 +6,7 @@ from datetime import datetime
 
 # --- UPDATE THESE ---
 DB_USER = "postgres"
-DB_PASSWORD = "livandmaddie"
+DB_PASSWORD = "password"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_NAME = "space_data"
