@@ -1,4 +1,4 @@
-# ISS Location API Pipeline 🛸
+# ISS Location API Pipeline 
 
 An automated data pipeline that tracks the International Space Station (ISS) in real time. Every 5 minutes, the pipeline fetches the current ISS position from a live API and stores it in a PostgreSQL database for analysis.
 
